@@ -15,7 +15,6 @@ const GARAGE_CAR_PRICE = 6000;
 
 let numLot, numBedrooms, numBathrooms, numGarageCars, numTotalCost;
 
-
 function main() {
     setNumLot();
     setNumBedrooms();
